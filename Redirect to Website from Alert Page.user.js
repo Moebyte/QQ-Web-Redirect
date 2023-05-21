@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Redirect to Website from Alert Page
-// @namespace    none
+// @namespace    https://github.com/Moebyte/QQ-Web-Redirect
 // @version      1
 // @description  Redirect to the website mentioned in the alert page by clicking a button or automatically after a few seconds of page load.
 // @match        https://c.pc.qq.com/*
